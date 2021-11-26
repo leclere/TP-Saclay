@@ -1,6 +1,6 @@
 # TP-Saclay
 
-You will find here the files for the homework for the course "Stochastic Optimization".
+You will find here the files for the homework for the course "Stochastic Optimization"(http://cermics.enpc.fr/~leclerev/OptimizationSaclay.html).
 
 ## The practical work
 
